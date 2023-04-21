@@ -17,7 +17,6 @@
 #include "esp_log.h"
 #include "esp_partition.h"
 #include "driver/i2s.h"
-#include "audio_example_file.h"
 #include "esp_rom_sys.h"
 #include "driver/adc.h"
 #include "esp_adc_cal.h"
